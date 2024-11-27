@@ -7,6 +7,7 @@ Applied mutation testing on coding questions of top tech companies like -
 ### Walmart
 ### Golman Sachs
 ### Microsoft
+### Flipkart
 
 ## Framework 
 PiTest :- PIT is a state of the art mutation testing system, providing gold standard test coverage for Java and the jvm. It's fast, scalable and integrates with modern test and build tooling.
@@ -41,3 +42,14 @@ We analyze the mutation score and the nature of survived mutants to identify wea
 the test suite.We also identify patterns in the types of mutations that were survived, indicating
 potential areas of improvement in test coverage or test quality.
 
+## Contribution 
+Subhra J Singh (MT2023082) - Designed test cases and Performed mutation testing(integration level testing and unit level testing) on around 21 DSA problems covered under companies:
+     1)Google
+     2)Intuit
+     3)Microsoft
+     4)Walmart
+Harsh Ranpariya (MT2023164) - Designed test cases and Performed mutation testing(integration level testing and unit level testing) on around 21 DSA problems covered under companies:
+     1)Adobe
+     2)Amazon
+     3)Flipkart
+     4)Goldmansachs
